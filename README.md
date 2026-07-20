@@ -344,8 +344,8 @@ A relational data model was developed to support interactive reporting by connec
 ---
 
 ## 📷 Dashboard Preview
+<img width="930" height="481" alt="Screenshot 2026-07-20 032910" src="https://github.com/user-attachments/assets/d378ac18-9ab9-42ef-86e7-86a67532a3d5" />
 
-![Sales Overview Dashboard](<img width="930" height="481" alt="Screenshot 2026-07-20 032910" src="https://github.com/user-attachments/assets/7693e4c2-c40d-4666-a80b-05d510690418" />)
 
 ---
 
